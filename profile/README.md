@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../twinstack-banner.png" alt="TwinStack Studio — Full-Stack Web, Apps, Dashboards and AI Solutions" width="100%">
-</p>
+![TwinStack Studio — Full-Stack Web, Apps, Dashboards and AI Solutions](https://github.com/user-attachments/assets/494b78ed-1b9a-41be-8ac0-6d35dc425841)
 
 <p align="center">
   <strong>We turn ambitious ideas into reliable digital products.</strong><br>
@@ -20,71 +18,37 @@
 - 📊 Admin dashboards and customer portals
 - 🛒 E-commerce platforms
 - 🔌 API integrations and workflow automation
-- 🤖 AI-powered features and intelligent tools
-- 🛠️ Performance improvements, maintenance, and bug fixes
+- 🤖 AI-powered product features
 
 ## Featured Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://north-supply.onrender.com/">
-        <img src="https://raw.githubusercontent.com/twinstack-studio/north-supply/main/north-supply-homepage.png" alt="NORTH SUPPLY storefront" width="100%">
-      </a>
-      <h3>NORTH SUPPLY</h3>
-      <p>A complete PERN e-commerce platform with a modern storefront, secure authentication, checkout, order management, returns, and a full admin dashboard.</p>
-      <p>
-        <a href="https://north-supply.onrender.com/"><strong>Live Demo ↗</strong></a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/twinstack-studio/north-supply"><strong>Source Code</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://applytrack-lme1.onrender.com/">
-        <img src="https://raw.githubusercontent.com/chsameerwaseem/applytrack/main/applytrack-dashboard.png" alt="ApplyTrack dashboard" width="100%">
-      </a>
-      <h3>ApplyTrack</h3>
-      <p>A focused job application tracker with dashboard analytics, a REST API, persistent storage, responsive UI, and automated tests.</p>
-      <p>
-        <a href="https://applytrack-lme1.onrender.com/"><strong>Live Demo ↗</strong></a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/chsameerwaseem/applytrack"><strong>Source Code</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+[![NORTH SUPPLY storefront](https://github.com/user-attachments/assets/aa4930a7-c2ae-48a6-b54c-6d4909121682)](https://github.com/twinstack-studio/north-supply)
+
+<h3 align="center">NORTH SUPPLY</h3>
+<p align="center">
+  A modern storefront experience built for a clean, fast, and conversion-focused shopping journey.<br>
+  <a href="https://github.com/twinstack-studio/north-supply"><strong>View Project →</strong></a>
+</p>
 
 ## Technology Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express">
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="AI Integrations">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
-
-## Our Team
-
-- [Sameer Waseem](https://github.com/chsameerwaseem) — Full-Stack Developer & AI Graduate
-- [Wasil Nadeem](https://github.com/Bhatti89) — Full-Stack Developer
 
 ---
 
-<h2 align="center">Have a project in mind?</h2>
-
+<h2 align="center">Have a product idea?</h2>
 <p align="center">
-  Let’s build a fast, dependable product your users will love.
-</p>
-
-<p align="center">
-  <a href="mailto:hello.twinstackstudio@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT_TWINSTACK_STUDIO-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact TwinStack Studio">
-  </a>
-  <a href="https://twinstackstudio.com">
-    <img src="https://img.shields.io/badge/VISIT_OUR_WEBSITE-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit TwinStack Studio website">
-  </a>
+  Let's turn it into a polished, dependable digital product.<br><br>
+  <a href="mailto:hello.twinstackstudio@gmail.com"><strong>Contact TwinStack Studio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://twinstackstudio.com"><strong>Explore Our Website</strong></a>
 </p>
