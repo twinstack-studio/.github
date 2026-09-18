@@ -54,12 +54,12 @@
   <a href="https://github.com/twinstack-studio/psx-alpha"><strong>View Project →</strong></a>
 </p>
 
-[![Parda Cinemas app](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/parda-cinemas.png)](https://github.com/twinstack-studio/parda-cinemas)
+[![MovieBox app](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/moviebox.png)](https://github.com/twinstack-studio/moviebox)
 
-<h3 align="center">Parda Cinemas</h3>
+<h3 align="center">MovieBox</h3>
 <p align="center">
   A Flutter movie ticket app with live seat maps, snacks pre-order, mobile wallet checkout and offline QR tickets, in English and Urdu.<br>
-  <a href="https://github.com/twinstack-studio/parda-cinemas"><strong>View Project →</strong></a>
+  <a href="https://moviebox-twinstack.vercel.app"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/moviebox"><strong>View Project →</strong></a>
 </p>
 
 ## Technology Stack
