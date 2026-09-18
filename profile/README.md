@@ -46,6 +46,14 @@
   <a href="https://github.com/twinstack-studio/pak-khyber-shinwari"><strong>View Project →</strong></a>
 </p>
 
+[![PSX Alpha dashboard](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/psx-alpha.png)](https://github.com/twinstack-studio/psx-alpha)
+
+<h3 align="center">PSX Alpha</h3>
+<p align="center">
+  An AI-driven research engine that scores every KSE-100 company, explains each pick in plain language, and backtests the ranking against the index.<br>
+  <a href="https://github.com/twinstack-studio/psx-alpha"><strong>View Project →</strong></a>
+</p>
+
 ## Technology Stack
 
 <p align="center">
@@ -56,6 +64,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
