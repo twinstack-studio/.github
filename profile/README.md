@@ -30,6 +30,14 @@
   <a href="https://github.com/twinstack-studio/north-supply"><strong>View Project →</strong></a>
 </p>
 
+[![ZakatPay Portal homepage](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/zakatpay-portal.png)](https://github.com/twinstack-studio/zakatpay-portal)
+
+<h3 align="center">ZakatPay Portal</h3>
+<p align="center">
+  A zakat and donation portal that helps people calculate what they owe, learn the rulings, and give to trusted charities.<br>
+  <a href="https://github.com/twinstack-studio/zakatpay-portal"><strong>View Project →</strong></a>
+</p>
+
 ## Technology Stack
 
 <p align="center">
