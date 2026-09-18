@@ -38,16 +38,26 @@
   <a href="https://github.com/twinstack-studio/zakatpay-portal"><strong>View Project →</strong></a>
 </p>
 
+[![Pak Khyber Shinwari homepage](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/pak-khyber-shinwari.png)](https://github.com/twinstack-studio/pak-khyber-shinwari)
+
+<h3 align="center">Pak Khyber Shinwari</h3>
+<p align="center">
+  A bilingual restaurant website with online ordering and a staff dashboard for orders, sold-out dishes and reviews.<br>
+  <a href="https://github.com/twinstack-studio/pak-khyber-shinwari"><strong>View Project →</strong></a>
+</p>
+
 ## Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
 
 ---
