@@ -54,6 +54,14 @@
   <a href="https://github.com/twinstack-studio/psx-alpha"><strong>View Project →</strong></a>
 </p>
 
+[![Parda Cinemas app](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/parda-cinemas.png)](https://github.com/twinstack-studio/parda-cinemas)
+
+<h3 align="center">Parda Cinemas</h3>
+<p align="center">
+  A Flutter movie ticket app with live seat maps, snacks pre-order, mobile wallet checkout and offline QR tickets, in English and Urdu.<br>
+  <a href="https://github.com/twinstack-studio/parda-cinemas"><strong>View Project →</strong></a>
+</p>
+
 ## Technology Stack
 
 <p align="center">
@@ -66,6 +74,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
