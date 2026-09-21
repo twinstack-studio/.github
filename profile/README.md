@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://twinstackstudio.com"><strong>Visit Our Website</strong></a>
   &nbsp;•&nbsp;
-  <a href="mailto:hello.twinstackstudio@gmail.com"><strong>Start a Project</strong></a>
+  <a href="https://twinstackstudio.com/contact"><strong>Start a Project</strong></a>
 </p>
 
 ## What We Build
@@ -84,7 +84,7 @@
 <h2 align="center">Have a product idea?</h2>
 <p align="center">
   Let's turn it into a polished, dependable digital product.<br><br>
-  <a href="mailto:hello.twinstackstudio@gmail.com"><strong>Contact TwinStack Studio</strong></a>
+  <a href="mailto:hello@twinstackstudio.com"><strong>Contact TwinStack Studio</strong></a>
   &nbsp;•&nbsp;
   <a href="https://twinstackstudio.com"><strong>Explore Our Website</strong></a>
 </p>
