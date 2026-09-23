@@ -62,6 +62,14 @@
   <a href="https://moviebox.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/moviebox"><strong>View Project →</strong></a>
 </p>
 
+[![Sketchify app](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/sketchify.png)](https://github.com/twinstack-studio/sketchify)
+
+<h3 align="center">Sketchify</h3>
+<p align="center">
+  A React Native app that turns photos into drawings, with thirteen sketch styles running live on the phone's GPU.<br>
+  <a href="https://sketchify.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/sketchify/releases/latest/download/sketchify.apk"><strong>Android App</strong></a> · <a href="https://github.com/twinstack-studio/sketchify"><strong>View Project →</strong></a>
+</p>
+
 ## Technology Stack
 
 <p align="center">
@@ -75,6 +83,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
