@@ -27,7 +27,7 @@
 <h3 align="center">NORTH SUPPLY</h3>
 <p align="center">
   A modern storefront experience built for a clean, fast, and conversion-focused shopping journey.<br>
-  <a href="https://github.com/twinstack-studio/north-supply"><strong>View Project →</strong></a>
+  <a href="https://northsupply.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/north-supply"><strong>View Project →</strong></a>
 </p>
 
 [![ZakatPay Portal homepage](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/zakatpay-portal.png)](https://github.com/twinstack-studio/zakatpay-portal)
@@ -35,7 +35,7 @@
 <h3 align="center">ZakatPay Portal</h3>
 <p align="center">
   A zakat and donation portal that helps people calculate what they owe, learn the rulings, and give to trusted charities.<br>
-  <a href="https://github.com/twinstack-studio/zakatpay-portal"><strong>View Project →</strong></a>
+  <a href="https://zakatpay.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/zakatpay-portal"><strong>View Project →</strong></a>
 </p>
 
 [![Pak Khyber Shinwari homepage](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/pak-khyber-shinwari.png)](https://github.com/twinstack-studio/pak-khyber-shinwari)
@@ -43,7 +43,7 @@
 <h3 align="center">Pak Khyber Shinwari</h3>
 <p align="center">
   A bilingual restaurant website with online ordering and a staff dashboard for orders, sold-out dishes and reviews.<br>
-  <a href="https://github.com/twinstack-studio/pak-khyber-shinwari"><strong>View Project →</strong></a>
+  <a href="https://pks.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/pak-khyber-shinwari"><strong>View Project →</strong></a>
 </p>
 
 [![PSX Alpha dashboard](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/psx-alpha.png)](https://github.com/twinstack-studio/psx-alpha)
@@ -51,7 +51,7 @@
 <h3 align="center">PSX Alpha</h3>
 <p align="center">
   An AI-driven research engine that scores every KSE-100 company, explains each pick in plain language, and backtests the ranking against the index.<br>
-  <a href="https://github.com/twinstack-studio/psx-alpha"><strong>View Project →</strong></a>
+  <a href="https://psxalpha.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/psx-alpha"><strong>View Project →</strong></a>
 </p>
 
 [![MovieBox app](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/moviebox.png)](https://github.com/twinstack-studio/moviebox)
@@ -59,7 +59,7 @@
 <h3 align="center">MovieBox</h3>
 <p align="center">
   A Flutter movie ticket app with live seat maps, snacks pre-order, mobile wallet checkout and offline QR tickets, in English and Urdu.<br>
-  <a href="https://moviebox-twinstack.vercel.app"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/moviebox"><strong>View Project →</strong></a>
+  <a href="https://moviebox.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/moviebox"><strong>View Project →</strong></a>
 </p>
 
 ## Technology Stack
