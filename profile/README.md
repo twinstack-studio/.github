@@ -66,7 +66,7 @@
 
 <h3 align="center">Sketchify</h3>
 <p align="center">
-  A React Native app that turns photos into drawings, with thirteen sketch styles running live on the phone's GPU.<br>
+  An AI image-processing app that turns photos into drawings: a computer-vision pipeline of edge detection and Gaussian filters runs live on the phone's GPU in thirteen sketch styles.<br>
   <a href="https://sketchify.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/sketchify/releases/latest/download/sketchify.apk"><strong>Android App</strong></a> · <a href="https://github.com/twinstack-studio/sketchify"><strong>View Project →</strong></a>
 </p>
 
