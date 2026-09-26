@@ -19,8 +19,17 @@
 - 🛒 E-commerce platforms
 - 🔌 API integrations and workflow automation
 - 🤖 AI-powered product features
+- 👁️ Computer vision: detection, tracking and OCR
 
 ## Featured Work
+
+[![TwinStack ANPR dashboard](https://raw.githubusercontent.com/twinstack-studio/.github/main/assets/anpr.png)](https://github.com/twinstack-studio/anpr)
+
+<h3 align="center">TwinStack ANPR</h3>
+<p align="center">
+  Computer vision that reads Pakistani number plates from CCTV video: vehicles are detected and tracked, and a plate detector and OCR model trained by us read every plate for gate logs, parking fees and watchlist alerts.<br>
+  <a href="https://anpr.twinstackstudio.com"><strong>Live Demo</strong></a> · <a href="https://github.com/twinstack-studio/anpr"><strong>View Project →</strong></a>
+</p>
 
 [![NORTH SUPPLY storefront](https://github.com/user-attachments/assets/aa4930a7-c2ae-48a6-b54c-6d4909121682)](https://github.com/twinstack-studio/north-supply)
 
@@ -82,6 +91,8 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
