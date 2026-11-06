@@ -1,4 +1,4 @@
-![TwinStack Studio — Full-Stack Web, Apps, Dashboards and AI Solutions](https://github.com/user-attachments/assets/494b78ed-1b9a-41be-8ac0-6d35dc425841)
+![TwinStack Studio: AI & Software Development](https://raw.githubusercontent.com/twinstack-studio/.github/main/twinstack-banner.png)
 
 <p align="center">
   <strong>We turn ambitious ideas into reliable digital products.</strong><br>
